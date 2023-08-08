@@ -1,0 +1,12 @@
+.env
+.vscode
+
+.git
+.github
+
+tests
+client
+
+Makefile
+**/Dockerfile
+**/docker-compose.yaml
